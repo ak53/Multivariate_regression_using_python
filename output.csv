@@ -1,0 +1,512 @@
+Combo,Absolute error,Mean squared error
+SJR,0.6981759845657278,2.397250108788582
+h-index,0.7358265288233562,2.3865813449346907
+total docs(2017),0.9329815667610578,3.249473329000401
+total docs(3yrs),0.9215131720867841,2.639100019118886
+total refs,0.9461806536662465,2.655432121601739
+total cites(3yrs),0.9664799369591662,2.751734155545866
+citable docs(3yrs),0.919001209469102,2.585695621175469
+cites/docs(2yrs),0.5679465756063514,2.304665164125913
+refs/docs,1.3715983858402916,3.2154891812275554
+SJR; h-index,0.6065824084589285,2.262631866373102
+SJR; total docs(2017),0.6616376408723577,2.2195240850377136
+SJR; total docs(3yrs),0.6426872446635696,2.1187208175309737
+SJR; total refs,0.6607132266202923,2.313953428097109
+SJR; total cites(3yrs),0.6896071056854294,2.3839081534737083
+SJR; citable docs(3yrs),0.6410981026948287,2.1228588299350086
+SJR; cites/docs(2yrs),0.5498836105602798,2.2816879704933557
+SJR; refs/docs,0.7245594017411237,2.0888740531039756
+h-index; total docs(2017),0.7382809464098988,2.354022388680872
+h-index; total docs(3yrs),0.7622791898351977,2.5038222509771835
+h-index; total refs,0.7349331654715298,2.3729370279685282
+h-index; total cites(3yrs),0.7210486964661227,2.3676257386660176
+h-index; citable docs(3yrs),0.7687531065641363,2.5320237719915437
+h-index; cites/docs(2yrs),0.5662185798907369,2.3094883853929344
+h-index; refs/docs,1.0477333000305156,2.521075907107821
+total docs(2017); total docs(3yrs),0.9216509448708264,2.705753512376662
+total docs(2017); total refs,0.968204907983311,3.8898505252631526
+total docs(2017); total cites(3yrs),0.9486950939319961,2.6679981212391786
+total docs(2017); citable docs(3yrs),0.9197828682334944,2.7058894846701325
+total docs(2017); cites/docs(2yrs),0.5670014880563744,2.2917587654803864
+total docs(2017); refs/docs,1.3501841915476367,2.997931475818953
+total docs(3yrs); total refs,0.942079028608725,2.7595293135542796
+total docs(3yrs); total cites(3yrs),0.9360932505162713,2.6237372484082386
+total docs(3yrs); citable docs(3yrs),0.9301242940150375,2.906581349734873
+total docs(3yrs); cites/docs(2yrs),0.5680735319662832,2.291619735896279
+total docs(3yrs); refs/docs,1.3540566798067688,2.878096959162176
+total refs; total cites(3yrs),0.9846278329265762,2.8095953277974117
+total refs; citable docs(3yrs),0.9353904677076738,2.676659403082806
+total refs; cites/docs(2yrs),0.5673833032665161,2.30252210298686
+total refs; refs/docs,1.334256376502914,3.045001433471192
+total cites(3yrs); citable docs(3yrs),0.9720267052440926,2.772472727794658
+total cites(3yrs); cites/docs(2yrs),0.56645151077626,2.3038003838094934
+total cites(3yrs); refs/docs,1.1557806315189,2.6359708647515006
+citable docs(3yrs); cites/docs(2yrs),0.5680389309256251,2.292347682819101
+citable docs(3yrs); refs/docs,1.3538281115630757,2.8783823127706527
+cites/docs(2yrs); refs/docs,0.5677231493394227,2.379108303289305
+SJR; h-index; total docs(2017),0.6009276386187943,2.1914656326396953
+SJR; h-index; total docs(3yrs),0.6013753690032545,2.235965673669208
+SJR; h-index; total refs,0.5982103679029452,2.2441309550102457
+SJR; h-index; total cites(3yrs),0.604945706070031,2.266706646719072
+SJR; h-index; citable docs(3yrs),0.6050888726937619,2.2549045472651086
+SJR; h-index; cites/docs(2yrs),0.549808910693299,2.294045058531642
+SJR; h-index; refs/docs,0.6732884427368158,2.115320684011328
+SJR; total docs(2017); total docs(3yrs),0.6535283586128772,2.170394334691676
+SJR; total docs(2017); total refs,0.6673323100245325,2.2143510750603133
+SJR; total docs(2017); total cites(3yrs),0.6661253497817241,2.2704080150040844
+SJR; total docs(2017); citable docs(3yrs),0.656766268804179,2.1959355191024437
+SJR; total docs(2017); cites/docs(2yrs),0.5460810738983481,2.2662791256898442
+SJR; total docs(2017); refs/docs,0.712240407805266,2.0020903470422797
+SJR; total docs(3yrs); total refs,0.6434035929757511,2.1134065234677535
+SJR; total docs(3yrs); total cites(3yrs),0.6641242131723284,2.300075833046637
+SJR; total docs(3yrs); citable docs(3yrs),0.6595413004872485,2.2127476547414835
+SJR; total docs(3yrs); cites/docs(2yrs),0.5494351883853713,2.278353864976115
+SJR; total docs(3yrs); refs/docs,0.7109157149785439,1.9676489944525417
+SJR; total refs; total cites(3yrs),0.6866820802219905,2.3787167567264076
+SJR; total refs; citable docs(3yrs),0.6413837216235276,2.129308560273395
+SJR; total refs; cites/docs(2yrs),0.5490195344231121,2.279372557275913
+SJR; total refs; refs/docs,0.7014101487421125,2.0624262370075512
+SJR; total cites(3yrs); citable docs(3yrs),0.6864945911428768,2.374996752901073
+SJR; total cites(3yrs); cites/docs(2yrs),0.5498015933199066,2.281644133349765
+SJR; total cites(3yrs); refs/docs,0.6895672214907036,2.0733639923402896
+SJR; citable docs(3yrs); cites/docs(2yrs),0.5497886799756964,2.2810315425024554
+SJR; citable docs(3yrs); refs/docs,0.7100723266271188,1.9719891977637856
+SJR; cites/docs(2yrs); refs/docs,0.5735107738406896,2.391508474275623
+h-index; total docs(2017); total docs(3yrs),0.7951217718800533,2.6341847358831023
+h-index; total docs(2017); total refs,0.7358616655915733,2.3668107171094346
+h-index; total docs(2017); total cites(3yrs),0.7199445801089737,2.371986219313917
+h-index; total docs(2017); citable docs(3yrs),0.8080960408524142,2.6961555324525723
+h-index; total docs(2017); cites/docs(2yrs),0.564077979782155,2.28312402362883
+h-index; total docs(2017); refs/docs,1.055958620487345,2.4895313473017278
+h-index; total docs(3yrs); total refs,0.8050060405674669,2.797069383212899
+h-index; total docs(3yrs); total cites(3yrs),0.8345561484771654,3.0236289822922653
+h-index; total docs(3yrs); citable docs(3yrs),0.779617746943917,2.591952230230539
+h-index; total docs(3yrs); cites/docs(2yrs),0.5647793458293843,2.2636771220825227
+h-index; total docs(3yrs); refs/docs,1.0415942361920552,2.574693590480766
+h-index; total refs; total cites(3yrs),0.7210648506565354,2.3676061723454107
+h-index; total refs; citable docs(3yrs),0.8211405630732108,2.888005469967035
+h-index; total refs; cites/docs(2yrs),0.5644068540057449,2.304758491281244
+h-index; total refs; refs/docs,1.0476950370873221,2.5207852896175598
+h-index; total cites(3yrs); citable docs(3yrs),0.8579344783395313,3.170310043723746
+h-index; total cites(3yrs); cites/docs(2yrs),0.5617525130774813,2.310907969389736
+h-index; total cites(3yrs); refs/docs,1.031900117235309,2.4547048577930664
+h-index; citable docs(3yrs); cites/docs(2yrs),0.564854432695798,2.2642492614964946
+h-index; citable docs(3yrs); refs/docs,1.0406907373393754,2.5962964622742484
+h-index; cites/docs(2yrs); refs/docs,0.5674689349304791,2.376180475362965
+total docs(2017); total docs(3yrs); total refs,0.9737826764356255,3.3398623720589224
+total docs(2017); total docs(3yrs); total cites(3yrs),0.9475760593315969,2.664038326740415
+total docs(2017); total docs(3yrs); citable docs(3yrs),0.9313644696934641,3.031463740708115
+total docs(2017); total docs(3yrs); cites/docs(2yrs),0.566552860974426,2.294006964424414
+total docs(2017); total docs(3yrs); refs/docs,1.3500648136941944,2.918581977151919
+total docs(2017); total refs; total cites(3yrs),0.9372435335276553,2.6422203829354385
+total docs(2017); total refs; citable docs(3yrs),0.9721778691452431,3.346139826880965
+total docs(2017); total refs; cites/docs(2yrs),0.5676797904094238,2.2769014639219707
+total docs(2017); total refs; refs/docs,1.435883660799119,3.354808844214686
+total docs(2017); total cites(3yrs); citable docs(3yrs),1.0108066903975288,2.858856560926833
+total docs(2017); total cites(3yrs); cites/docs(2yrs),0.5666700255947869,2.2949420601577972
+total docs(2017); total cites(3yrs); refs/docs,1.1513183045201403,2.8004763632916303
+total docs(2017); citable docs(3yrs); cites/docs(2yrs),0.5662931036139969,2.2953908147967934
+total docs(2017); citable docs(3yrs); refs/docs,1.3493614924781432,2.944018115059241
+total docs(2017); cites/docs(2yrs); refs/docs,0.5624491528164488,2.3623687051430995
+total docs(3yrs); total refs; total cites(3yrs),0.9118047047275769,2.4830826797732137
+total docs(3yrs); total refs; citable docs(3yrs),0.9423364549811196,2.953340980139492
+total docs(3yrs); total refs; cites/docs(2yrs),0.5683276485483703,2.28829768055237
+total docs(3yrs); total refs; refs/docs,1.3884289732131012,2.9275503769252995
+total docs(3yrs); total cites(3yrs); citable docs(3yrs),0.9857710759224476,3.0429632284786208
+total docs(3yrs); total cites(3yrs); cites/docs(2yrs),0.5664516884562881,2.3056021598241347
+total docs(3yrs); total cites(3yrs); refs/docs,1.2229361291954548,3.7322661053110227
+total docs(3yrs); citable docs(3yrs); cites/docs(2yrs),0.5677276362001131,2.2956132871489245
+total docs(3yrs); citable docs(3yrs); refs/docs,1.3762092025177135,3.042120357426502
+total docs(3yrs); cites/docs(2yrs); refs/docs,0.5629727221543592,2.3563637805035076
+total refs; total cites(3yrs); citable docs(3yrs),0.9386176026881061,2.6208941294337436
+total refs; total cites(3yrs); cites/docs(2yrs),0.5665512780177123,2.305003576044223
+total refs; total cites(3yrs); refs/docs,1.152593259575105,2.7141247517504654
+total refs; citable docs(3yrs); cites/docs(2yrs),0.5682262125504719,2.2898984465666246
+total refs; citable docs(3yrs); refs/docs,1.3822404044427978,2.9115244232091615
+total refs; cites/docs(2yrs); refs/docs,0.5658122941790704,2.377930402952042
+total cites(3yrs); citable docs(3yrs); cites/docs(2yrs),0.5665753361833962,2.309569391971323
+total cites(3yrs); citable docs(3yrs); refs/docs,1.2503767530117886,3.995647388686094
+total cites(3yrs); cites/docs(2yrs); refs/docs,0.5668769877219197,2.37789755726769
+citable docs(3yrs); cites/docs(2yrs); refs/docs,0.5631337823488458,2.356580771245695
+SJR; h-index; total docs(2017); total docs(3yrs),0.6219168778894263,2.310517954814433
+SJR; h-index; total docs(2017); total refs,0.604266975860141,2.164753048328344
+SJR; h-index; total docs(2017); total cites(3yrs),0.6005740733491917,2.1951277057425336
+SJR; h-index; total docs(2017); citable docs(3yrs),0.6311424793469093,2.3512742037875385
+SJR; h-index; total docs(2017); cites/docs(2yrs),0.5427320671741138,2.252638930566322
+SJR; h-index; total docs(2017); refs/docs,0.6746610047515013,2.0485015070438304
+SJR; h-index; total docs(3yrs); total refs,0.6175912089381074,2.3466132593558178
+SJR; h-index; total docs(3yrs); total cites(3yrs),0.6395978295193663,2.41559994196763
+SJR; h-index; total docs(3yrs); citable docs(3yrs),0.610794732212298,2.29839984750585
+SJR; h-index; total docs(3yrs); cites/docs(2yrs),0.5419071165457886,2.2318243957952077
+SJR; h-index; total docs(3yrs); refs/docs,0.6711993349554888,2.0829162205998566
+SJR; h-index; total refs; total cites(3yrs),0.6004406308887096,2.2542625756465475
+SJR; h-index; total refs; citable docs(3yrs),0.6294040677910056,2.4032609198379484
+SJR; h-index; total refs; cites/docs(2yrs),0.5451638073120337,2.2862610765744424
+SJR; h-index; total refs; refs/docs,0.665480130833987,2.103509702755312
+SJR; h-index; total cites(3yrs); citable docs(3yrs),0.661289556577622,2.5004897707745743
+SJR; h-index; total cites(3yrs); cites/docs(2yrs),0.5478936920115287,2.2980394765911374
+SJR; h-index; total cites(3yrs); refs/docs,0.6714138529629913,2.0901734911429877
+SJR; h-index; citable docs(3yrs); cites/docs(2yrs),0.5423293280393813,2.234495404572117
+SJR; h-index; citable docs(3yrs); refs/docs,0.6717331711112303,2.100375524351316
+SJR; h-index; cites/docs(2yrs); refs/docs,0.5710999870851274,2.380176591310719
+SJR; total docs(2017); total docs(3yrs); total refs,0.6599778341896488,2.150062984188658
+SJR; total docs(2017); total docs(3yrs); total cites(3yrs),0.6844199463766315,2.3402489579074506
+SJR; total docs(2017); total docs(3yrs); citable docs(3yrs),0.6623008292638362,2.294819145829735
+SJR; total docs(2017); total docs(3yrs); cites/docs(2yrs),0.5452634625094417,2.2856051541001943
+SJR; total docs(2017); total docs(3yrs); refs/docs,0.712813982541444,2.0090917078283574
+SJR; total docs(2017); total refs; total cites(3yrs),0.6677472356309213,2.2207950997899375
+SJR; total docs(2017); total refs; citable docs(3yrs),0.6619972254078329,2.1733713214838075
+SJR; total docs(2017); total refs; cites/docs(2yrs),0.5451168393584679,2.2467502977047715
+SJR; total docs(2017); total refs; refs/docs,0.7480659443334825,1.9955529655580169
+SJR; total docs(2017); total cites(3yrs); citable docs(3yrs),0.7173329642659076,2.4363894480143307
+SJR; total docs(2017); total cites(3yrs); cites/docs(2yrs),0.5464960129741189,2.251274552102298
+SJR; total docs(2017); total cites(3yrs); refs/docs,0.6896052592094465,2.0736284915881398
+SJR; total docs(2017); citable docs(3yrs); cites/docs(2yrs),0.5466094883229992,2.2903815903817217
+SJR; total docs(2017); citable docs(3yrs); refs/docs,0.7146271084195439,2.032524098182526
+SJR; total docs(2017); cites/docs(2yrs); refs/docs,0.5660806634142274,2.3708017498418776
+SJR; total docs(3yrs); total refs; total cites(3yrs),0.6629732572462583,2.2898752533780686
+SJR; total docs(3yrs); total refs; citable docs(3yrs),0.6578301958079311,2.2337631708506946
+SJR; total docs(3yrs); total refs; cites/docs(2yrs),0.549676476836871,2.2871759229436694
+SJR; total docs(3yrs); total refs; refs/docs,0.7164033120777757,1.9553773315359173
+SJR; total docs(3yrs); total cites(3yrs); citable docs(3yrs),0.6939624741603322,2.4895687758268954
+SJR; total docs(3yrs); total cites(3yrs); cites/docs(2yrs),0.5491499478369145,2.2730053877103717
+SJR; total docs(3yrs); total cites(3yrs); refs/docs,0.753992547088583,2.4208470237475153
+SJR; total docs(3yrs); citable docs(3yrs); cites/docs(2yrs),0.5490115200604094,2.289193523380776
+SJR; total docs(3yrs); citable docs(3yrs); refs/docs,0.7364493026380755,2.0698570588934704
+SJR; total docs(3yrs); cites/docs(2yrs); refs/docs,0.5683424854373691,2.373082628574761
+SJR; total refs; total cites(3yrs); citable docs(3yrs),0.6893923689977788,2.3864347620600794
+SJR; total refs; total cites(3yrs); cites/docs(2yrs),0.549030880131113,2.2780099734805397
+SJR; total refs; total cites(3yrs); refs/docs,0.704931361873529,2.1004967901055918
+SJR; total refs; citable docs(3yrs); cites/docs(2yrs),0.5502168164600749,2.2936136178331337
+SJR; total refs; citable docs(3yrs); refs/docs,0.7111158818414021,1.9679816286615097
+SJR; total refs; cites/docs(2yrs); refs/docs,0.5721431382687631,2.390497076826909
+SJR; total cites(3yrs); citable docs(3yrs); cites/docs(2yrs),0.5499332165682955,2.283021176081665
+SJR; total cites(3yrs); citable docs(3yrs); refs/docs,0.7815021139378971,2.551648318638103
+SJR; total cites(3yrs); cites/docs(2yrs); refs/docs,0.5737969707886891,2.391984346729631
+SJR; citable docs(3yrs); cites/docs(2yrs); refs/docs,0.5687938688881091,2.3747906508473684
+h-index; total docs(2017); total docs(3yrs); total refs,0.7998105896940043,2.7306934794409288
+h-index; total docs(2017); total docs(3yrs); total cites(3yrs),0.8394587491956077,3.115632382269298
+h-index; total docs(2017); total docs(3yrs); citable docs(3yrs),0.8279395387581849,2.767629466416646
+h-index; total docs(2017); total docs(3yrs); cites/docs(2yrs),0.5644931171949862,2.264360020279222
+h-index; total docs(2017); total docs(3yrs); refs/docs,1.044051855607902,2.6480344764737285
+h-index; total docs(2017); total refs; total cites(3yrs),0.7206265050581345,2.3782788769353274
+h-index; total docs(2017); total refs; citable docs(3yrs),0.8149901687483149,2.8134520394059295
+h-index; total docs(2017); total refs; cites/docs(2yrs),0.5671490580104231,2.2616041353102774
+h-index; total docs(2017); total refs; refs/docs,1.1038158691588735,2.4931276799964137
+h-index; total docs(2017); total cites(3yrs); citable docs(3yrs),0.8682302843777372,3.2970835791584117
+h-index; total docs(2017); total cites(3yrs); cites/docs(2yrs),0.5608772304036342,2.2982958402403093
+h-index; total docs(2017); total cites(3yrs); refs/docs,1.0313292267160152,2.5821379685264128
+h-index; total docs(2017); citable docs(3yrs); cites/docs(2yrs),0.5643404161989198,2.2655487328727952
+h-index; total docs(2017); citable docs(3yrs); refs/docs,1.0485781678474546,2.6981750201671684
+h-index; total docs(2017); cites/docs(2yrs); refs/docs,0.5612649337914127,2.349330053260156
+h-index; total docs(3yrs); total refs; total cites(3yrs),0.9004486733874403,3.4006376979400077
+h-index; total docs(3yrs); total refs; citable docs(3yrs),0.8366859728577263,2.9468242624496566
+h-index; total docs(3yrs); total refs; cites/docs(2yrs),0.5665882755943169,2.241633541839853
+h-index; total docs(3yrs); total refs; refs/docs,1.0187641578657998,2.6359119166656817
+h-index; total docs(3yrs); total cites(3yrs); citable docs(3yrs),0.8506247922848083,3.250408667247855
+h-index; total docs(3yrs); total cites(3yrs); cites/docs(2yrs),0.5627056396287272,2.2801699176384354
+h-index; total docs(3yrs); total cites(3yrs); refs/docs,1.122539411777484,3.588289803266435
+h-index; total docs(3yrs); citable docs(3yrs); cites/docs(2yrs),0.5645031680862921,2.267818719083087
+h-index; total docs(3yrs); citable docs(3yrs); refs/docs,1.0677213663307328,2.684727818386103
+h-index; total docs(3yrs); cites/docs(2yrs); refs/docs,0.5598774387215958,2.3295427622737113
+h-index; total refs; total cites(3yrs); citable docs(3yrs),0.9388251857681971,3.6617194817473613
+h-index; total refs; total cites(3yrs); cites/docs(2yrs),0.5624103254711451,2.313634778755635
+h-index; total refs; total cites(3yrs); refs/docs,1.05063712099093,2.5248245463983006
+h-index; total refs; citable docs(3yrs); cites/docs(2yrs),0.5665068018707525,2.2423684070805368
+h-index; total refs; citable docs(3yrs); refs/docs,1.0161677870053147,2.691541801031859
+h-index; total refs; cites/docs(2yrs); refs/docs,0.564940944019862,2.3729195537700374
+h-index; total cites(3yrs); citable docs(3yrs); cites/docs(2yrs),0.5625194539683259,2.2836358903650424
+h-index; total cites(3yrs); citable docs(3yrs); refs/docs,1.1460639400325427,3.811092624236656
+h-index; total cites(3yrs); cites/docs(2yrs); refs/docs,0.5651149329671222,2.369380216635037
+h-index; citable docs(3yrs); cites/docs(2yrs); refs/docs,0.5601591503149362,2.3301018568711727
+total docs(2017); total docs(3yrs); total refs; total cites(3yrs),0.9303016952017592,2.601991676291305
+total docs(2017); total docs(3yrs); total refs; citable docs(3yrs),0.9731373352114604,3.5028451892282018
+total docs(2017); total docs(3yrs); total refs; cites/docs(2yrs),0.5676524798462059,2.277657406845491
+total docs(2017); total docs(3yrs); total refs; refs/docs,1.4398446525491946,3.254545010873795
+total docs(2017); total docs(3yrs); total cites(3yrs); citable docs(3yrs),1.009872898341842,3.135596395306658
+total docs(2017); total docs(3yrs); total cites(3yrs); cites/docs(2yrs),0.5649845020088783,2.3075578170858493
+total docs(2017); total docs(3yrs); total cites(3yrs); refs/docs,1.2168841633338643,3.7362258427294233
+total docs(2017); total docs(3yrs); citable docs(3yrs); cites/docs(2yrs),0.5662007243311371,2.298612623098582
+total docs(2017); total docs(3yrs); citable docs(3yrs); refs/docs,1.372688384115086,3.1230781295245422
+total docs(2017); total docs(3yrs); cites/docs(2yrs); refs/docs,0.5624366984623341,2.35732212329044
+total docs(2017); total refs; total cites(3yrs); citable docs(3yrs),0.9518148938214018,2.712676915561495
+total docs(2017); total refs; total cites(3yrs); cites/docs(2yrs),0.5662477485225201,2.2804659881933906
+total docs(2017); total refs; total cites(3yrs); refs/docs,1.1797028772468015,2.5972798193652222
+total docs(2017); total refs; citable docs(3yrs); cites/docs(2yrs),0.5676159389821362,2.2790553407871856
+total docs(2017); total refs; citable docs(3yrs); refs/docs,1.4384874487459647,3.2726945465867536
+total docs(2017); total refs; cites/docs(2yrs); refs/docs,0.5617229623549947,2.3576149094070273
+total docs(2017); total cites(3yrs); citable docs(3yrs); cites/docs(2yrs),0.5649212513244322,2.312544860491813
+total docs(2017); total cites(3yrs); citable docs(3yrs); refs/docs,1.2416915644939888,4.0174618425592765
+total docs(2017); total cites(3yrs); cites/docs(2yrs); refs/docs,0.5630846879327993,2.3557952795589685
+total docs(2017); citable docs(3yrs); cites/docs(2yrs); refs/docs,0.5624843203581964,2.357780239335458
+total docs(3yrs); total refs; total cites(3yrs); citable docs(3yrs),0.9664456912093281,2.9270884146961222
+total docs(3yrs); total refs; total cites(3yrs); cites/docs(2yrs),0.5665746935400917,2.302156296277223
+total docs(3yrs); total refs; total cites(3yrs); refs/docs,1.1990610980590324,3.5035259522945568
+total docs(3yrs); total refs; citable docs(3yrs); cites/docs(2yrs),0.5678405156315018,2.2941436155848094
+total docs(3yrs); total refs; citable docs(3yrs); refs/docs,1.3976872296869134,3.057890410610153
+total docs(3yrs); total refs; cites/docs(2yrs); refs/docs,0.5630258091038619,2.357020306887477
+total docs(3yrs); total cites(3yrs); citable docs(3yrs); cites/docs(2yrs),0.5667433734348808,2.316565312203582
+total docs(3yrs); total cites(3yrs); citable docs(3yrs); refs/docs,1.21899484250995,4.082283753373849
+total docs(3yrs); total cites(3yrs); cites/docs(2yrs); refs/docs,0.5642471503378699,2.321666430310725
+total docs(3yrs); citable docs(3yrs); cites/docs(2yrs); refs/docs,0.562370088269483,2.357706228237234
+total refs; total cites(3yrs); citable docs(3yrs); cites/docs(2yrs),0.5665773766874532,2.3070703835933095
+total refs; total cites(3yrs); citable docs(3yrs); refs/docs,1.228084861436199,3.791165809291409
+total refs; total cites(3yrs); cites/docs(2yrs); refs/docs,0.5660540384019449,2.3785175427156777
+total refs; citable docs(3yrs); cites/docs(2yrs); refs/docs,0.5632237141896547,2.357794946923255
+total cites(3yrs); citable docs(3yrs); cites/docs(2yrs); refs/docs,0.5645160835328297,2.3199711027016043
+SJR; h-index; total docs(2017); total docs(3yrs); total refs,0.6208114656329555,2.2944152483546842
+SJR; h-index; total docs(2017); total docs(3yrs); total cites(3yrs),0.650252022053028,2.473617124111448
+SJR; h-index; total docs(2017); total docs(3yrs); citable docs(3yrs),0.6455360226090506,2.4021631341881906
+SJR; h-index; total docs(2017); total docs(3yrs); cites/docs(2yrs),0.5419982146828006,2.2370859418654603
+SJR; h-index; total docs(2017); total docs(3yrs); refs/docs,0.6761077405282077,2.1463815636765338
+SJR; h-index; total docs(2017); total refs; total cites(3yrs),0.6034889419473874,2.169678743471563
+SJR; h-index; total docs(2017); total refs; citable docs(3yrs),0.6305110885937176,2.344230021974629
+SJR; h-index; total docs(2017); total refs; cites/docs(2yrs),0.5457345121055079,2.222337675723843
+SJR; h-index; total docs(2017); total refs; refs/docs,0.7029532899749531,2.002695381431587
+SJR; h-index; total docs(2017); total cites(3yrs); citable docs(3yrs),0.6746325501908722,2.581406754128187
+SJR; h-index; total docs(2017); total cites(3yrs); cites/docs(2yrs),0.5419611885038348,2.2601902007318273
+SJR; h-index; total docs(2017); total cites(3yrs); refs/docs,0.6704912963254857,2.0841999452739586
+SJR; h-index; total docs(2017); citable docs(3yrs); cites/docs(2yrs),0.5421835218450449,2.2419306747629917
+SJR; h-index; total docs(2017); citable docs(3yrs); refs/docs,0.682123600503079,2.184990976689812
+SJR; h-index; total docs(2017); cites/docs(2yrs); refs/docs,0.5629840131917593,2.3372199992022327
+SJR; h-index; total docs(3yrs); total refs; total cites(3yrs),0.6671970394783171,2.5371152710068223
+SJR; h-index; total docs(3yrs); total refs; citable docs(3yrs),0.6385819931257407,2.4502067158266327
+SJR; h-index; total docs(3yrs); total refs; cites/docs(2yrs),0.5423491861906897,2.2114467729503557
+SJR; h-index; total docs(3yrs); total refs; refs/docs,0.6638535724136864,2.132727536432722
+SJR; h-index; total docs(3yrs); total cites(3yrs); citable docs(3yrs),0.6673188170542482,2.5750377401390914
+SJR; h-index; total docs(3yrs); total cites(3yrs); cites/docs(2yrs),0.5419144745723732,2.232288758769939
+SJR; h-index; total docs(3yrs); total cites(3yrs); refs/docs,0.7421008672099031,2.466587308679657
+SJR; h-index; total docs(3yrs); citable docs(3yrs); cites/docs(2yrs),0.5411941631817719,2.2432899670413793
+SJR; h-index; total docs(3yrs); citable docs(3yrs); refs/docs,0.6895219369695639,2.1538351427844034
+SJR; h-index; total docs(3yrs); cites/docs(2yrs); refs/docs,0.5602326496955969,2.316201491056691
+SJR; h-index; total refs; total cites(3yrs); citable docs(3yrs),0.6997003326571376,2.67841817241569
+SJR; h-index; total refs; total cites(3yrs); cites/docs(2yrs),0.5472630221398439,2.2964364362870664
+SJR; h-index; total refs; total cites(3yrs); refs/docs,0.6864534299153924,2.1044752075143407
+SJR; h-index; total refs; citable docs(3yrs); cites/docs(2yrs),0.5426450544495186,2.2172065319633005
+SJR; h-index; total refs; citable docs(3yrs); refs/docs,0.6639211596697416,2.182664941345985
+SJR; h-index; total refs; cites/docs(2yrs); refs/docs,0.5692536116430084,2.3757753196526825
+SJR; h-index; total cites(3yrs); citable docs(3yrs); cites/docs(2yrs),0.5424016310783469,2.241430871101649
+SJR; h-index; total cites(3yrs); citable docs(3yrs); refs/docs,0.767597869260223,2.589820848444016
+SJR; h-index; total cites(3yrs); cites/docs(2yrs); refs/docs,0.568706910939475,2.3728081886195502
+SJR; h-index; citable docs(3yrs); cites/docs(2yrs); refs/docs,0.5607463281052766,2.3191037024288916
+SJR; total docs(2017); total docs(3yrs); total refs; total cites(3yrs),0.6780705876503229,2.262949672753986
+SJR; total docs(2017); total docs(3yrs); total refs; citable docs(3yrs),0.6699105683558598,2.2804463254744523
+SJR; total docs(2017); total docs(3yrs); total refs; cites/docs(2yrs),0.5455522028841986,2.2672642528995883
+SJR; total docs(2017); total docs(3yrs); total refs; refs/docs,0.7483544085984851,1.991095374845908
+SJR; total docs(2017); total docs(3yrs); total cites(3yrs); citable docs(3yrs),0.7237408603365469,2.5597516166395162
+SJR; total docs(2017); total docs(3yrs); total cites(3yrs); cites/docs(2yrs),0.5452264795191689,2.2790441396728243
+SJR; total docs(2017); total docs(3yrs); total cites(3yrs); refs/docs,0.7458984543741959,2.441459861787496
+SJR; total docs(2017); total docs(3yrs); citable docs(3yrs); cites/docs(2yrs),0.549424345374098,2.2991960283221493
+SJR; total docs(2017); total docs(3yrs); citable docs(3yrs); refs/docs,0.7336033238024249,2.140515288484565
+SJR; total docs(2017); total docs(3yrs); cites/docs(2yrs); refs/docs,0.5672272060578137,2.377574991693934
+SJR; total docs(2017); total refs; total cites(3yrs); citable docs(3yrs),0.6971709198360352,2.344001290856792
+SJR; total docs(2017); total refs; total cites(3yrs); cites/docs(2yrs),0.5479540449706182,2.2357566304461414
+SJR; total docs(2017); total refs; total cites(3yrs); refs/docs,0.713998361147769,1.9816431827881777
+SJR; total docs(2017); total refs; citable docs(3yrs); cites/docs(2yrs),0.5462596118711561,2.2729138136213503
+SJR; total docs(2017); total refs; citable docs(3yrs); refs/docs,0.7472727654162937,2.0121015671797684
+SJR; total docs(2017); total refs; cites/docs(2yrs); refs/docs,0.5646040937738686,2.3645925993117083
+SJR; total docs(2017); total cites(3yrs); citable docs(3yrs); cites/docs(2yrs),0.5466807417549657,2.2920836313182544
+SJR; total docs(2017); total cites(3yrs); citable docs(3yrs); refs/docs,0.7728303867742918,2.5906996923929175
+SJR; total docs(2017); total cites(3yrs); cites/docs(2yrs); refs/docs,0.5690857691247375,2.3492743047812525
+SJR; total docs(2017); citable docs(3yrs); cites/docs(2yrs); refs/docs,0.5682876809992768,2.3804497431667113
+SJR; total docs(3yrs); total refs; total cites(3yrs); citable docs(3yrs),0.7026740836241023,2.527886230779696
+SJR; total docs(3yrs); total refs; total cites(3yrs); cites/docs(2yrs),0.5492371789970428,2.281467654074839
+SJR; total docs(3yrs); total refs; total cites(3yrs); refs/docs,0.7486762600195247,2.382331608391304
+SJR; total docs(3yrs); total refs; citable docs(3yrs); cites/docs(2yrs),0.5501488433166701,2.305322869144449
+SJR; total docs(3yrs); total refs; citable docs(3yrs); refs/docs,0.734150550058992,2.0773220843617093
+SJR; total docs(3yrs); total refs; cites/docs(2yrs); refs/docs,0.5717785631371551,2.3893973318781847
+SJR; total docs(3yrs); total cites(3yrs); citable docs(3yrs); cites/docs(2yrs),0.5500326247096198,2.300566136113592
+SJR; total docs(3yrs); total cites(3yrs); citable docs(3yrs); refs/docs,0.7775928333558078,2.6633298779425076
+SJR; total docs(3yrs); total cites(3yrs); cites/docs(2yrs); refs/docs,0.5657748300692196,2.308490377591352
+SJR; total docs(3yrs); citable docs(3yrs); cites/docs(2yrs); refs/docs,0.5654007172794198,2.377998476925366
+SJR; total refs; total cites(3yrs); citable docs(3yrs); cites/docs(2yrs),0.5503918817414867,2.2957250165171352
+SJR; total refs; total cites(3yrs); citable docs(3yrs); refs/docs,0.7793096983134309,2.536833282969226
+SJR; total refs; total cites(3yrs); cites/docs(2yrs); refs/docs,0.5734645857685553,2.394342190998594
+SJR; total refs; citable docs(3yrs); cites/docs(2yrs); refs/docs,0.5734560238748153,2.3946023245711654
+SJR; total cites(3yrs); citable docs(3yrs); cites/docs(2yrs); refs/docs,0.5656646758028893,2.309836070057908
+h-index; total docs(2017); total docs(3yrs); total refs; total cites(3yrs),0.8658338013652278,3.2634848972972628
+h-index; total docs(2017); total docs(3yrs); total refs; citable docs(3yrs),0.8356784211505093,2.9029379138867846
+h-index; total docs(2017); total docs(3yrs); total refs; cites/docs(2yrs),0.5690559988714171,2.230195723758278
+h-index; total docs(2017); total docs(3yrs); total refs; refs/docs,1.0690722352298894,2.6178643481187787
+h-index; total docs(2017); total docs(3yrs); total cites(3yrs); citable docs(3yrs),0.8771864361164639,3.390272630832698
+h-index; total docs(2017); total docs(3yrs); total cites(3yrs); cites/docs(2yrs),0.5624813897599519,2.2806773619997855
+h-index; total docs(2017); total docs(3yrs); total cites(3yrs); refs/docs,1.107765044342286,3.6012934208570404
+h-index; total docs(2017); total docs(3yrs); citable docs(3yrs); cites/docs(2yrs),0.5647325661380976,2.268923446488284
+h-index; total docs(2017); total docs(3yrs); citable docs(3yrs); refs/docs,1.0722479768726554,2.7969056659563494
+h-index; total docs(2017); total docs(3yrs); cites/docs(2yrs); refs/docs,0.5597613583115615,2.3298836216172876
+h-index; total docs(2017); total refs; total cites(3yrs); citable docs(3yrs),0.9004614645595699,3.496904208851074
+h-index; total docs(2017); total refs; total cites(3yrs); cites/docs(2yrs),0.5617613211473871,2.274365916292743
+h-index; total docs(2017); total refs; total cites(3yrs); refs/docs,1.0656817120393398,2.465103054117614
+h-index; total docs(2017); total refs; citable docs(3yrs); cites/docs(2yrs),0.5687752168904114,2.230501246551903
+h-index; total docs(2017); total refs; citable docs(3yrs); refs/docs,1.069080744768779,2.66842512800364
+h-index; total docs(2017); total refs; cites/docs(2yrs); refs/docs,0.560935368247678,2.336198206584879
+h-index; total docs(2017); total cites(3yrs); citable docs(3yrs); cites/docs(2yrs),0.5620497966208864,2.2848517932748518
+h-index; total docs(2017); total cites(3yrs); citable docs(3yrs); refs/docs,1.1282618052313638,3.845614883582444
+h-index; total docs(2017); total cites(3yrs); cites/docs(2yrs); refs/docs,0.5614757492194753,2.3487237998667845
+h-index; total docs(2017); citable docs(3yrs); cites/docs(2yrs); refs/docs,0.5599178447968343,2.330779843874664
+h-index; total docs(3yrs); total refs; total cites(3yrs); citable docs(3yrs),0.9344120949244874,3.7617543022327724
+h-index; total docs(3yrs); total refs; total cites(3yrs); cites/docs(2yrs),0.5636210506624865,2.257970558136104
+h-index; total docs(3yrs); total refs; total cites(3yrs); refs/docs,1.1229284327679927,3.595285947878076
+h-index; total docs(3yrs); total refs; citable docs(3yrs); cites/docs(2yrs),0.5661947947169383,2.2468183766932874
+h-index; total docs(3yrs); total refs; citable docs(3yrs); refs/docs,1.0370231403645507,2.778475459112463
+h-index; total docs(3yrs); total refs; cites/docs(2yrs); refs/docs,0.5593444238516297,2.314945143252725
+h-index; total docs(3yrs); total cites(3yrs); citable docs(3yrs); cites/docs(2yrs),0.5614779226275123,2.2913163303219366
+h-index; total docs(3yrs); total cites(3yrs); citable docs(3yrs); refs/docs,1.1391649135471515,3.9099912534725876
+h-index; total docs(3yrs); total cites(3yrs); cites/docs(2yrs); refs/docs,0.56298289632064,2.307006063743995
+h-index; total docs(3yrs); citable docs(3yrs); cites/docs(2yrs); refs/docs,0.5591356335322346,2.33087721602602
+h-index; total refs; total cites(3yrs); citable docs(3yrs); cites/docs(2yrs),0.563508627779228,2.26099076967681
+h-index; total refs; total cites(3yrs); citable docs(3yrs); refs/docs,1.149849039745665,3.8828545140349244
+h-index; total refs; total cites(3yrs); cites/docs(2yrs); refs/docs,0.5645562793282283,2.371252931670111
+h-index; total refs; citable docs(3yrs); cites/docs(2yrs); refs/docs,0.5597338909768669,2.316058043528298
+h-index; total cites(3yrs); citable docs(3yrs); cites/docs(2yrs); refs/docs,0.5630765226230794,2.306007681106205
+total docs(2017); total docs(3yrs); total refs; total cites(3yrs); citable docs(3yrs),0.9770996114160502,3.0000977315316013
+total docs(2017); total docs(3yrs); total refs; total cites(3yrs); cites/docs(2yrs),0.5647430990562291,2.290757753498993
+total docs(2017); total docs(3yrs); total refs; total cites(3yrs); refs/docs,1.1502970142725089,3.2172341876208765
+total docs(2017); total docs(3yrs); total refs; citable docs(3yrs); cites/docs(2yrs),0.5681179436382655,2.283686103903789
+total docs(2017); total docs(3yrs); total refs; citable docs(3yrs); refs/docs,1.4451852726242014,3.38995808284332
+total docs(2017); total docs(3yrs); total refs; cites/docs(2yrs); refs/docs,0.561427764299277,2.350985792444002
+total docs(2017); total docs(3yrs); total cites(3yrs); citable docs(3yrs); cites/docs(2yrs),0.565530986113272,2.319424469261586
+total docs(2017); total docs(3yrs); total cites(3yrs); citable docs(3yrs); refs/docs,1.2128314517618046,4.12327239454092
+total docs(2017); total docs(3yrs); total cites(3yrs); cites/docs(2yrs); refs/docs,0.5645686575974518,2.3227302556296734
+total docs(2017); total docs(3yrs); citable docs(3yrs); cites/docs(2yrs); refs/docs,0.5617714806843939,2.3589003952207754
+total docs(2017); total refs; total cites(3yrs); citable docs(3yrs); cites/docs(2yrs),0.5642021337683844,2.2953985467615956
+total docs(2017); total refs; total cites(3yrs); citable docs(3yrs); refs/docs,1.1733817176550057,3.448968773747117
+total docs(2017); total refs; total cites(3yrs); cites/docs(2yrs); refs/docs,0.5629894618099777,2.3533020101892044
+total docs(2017); total refs; citable docs(3yrs); cites/docs(2yrs); refs/docs,0.561471399748053,2.3513879707083842
+total docs(2017); total cites(3yrs); citable docs(3yrs); cites/docs(2yrs); refs/docs,0.5647890160638696,2.3213445398083903
+total docs(3yrs); total refs; total cites(3yrs); citable docs(3yrs); cites/docs(2yrs),0.5667111707098473,2.3151742281124372
+total docs(3yrs); total refs; total cites(3yrs); citable docs(3yrs); refs/docs,1.2056675671227775,3.9315321270061845
+total docs(3yrs); total refs; total cites(3yrs); cites/docs(2yrs); refs/docs,0.5642503823396686,2.3234323954905247
+total docs(3yrs); total refs; citable docs(3yrs); cites/docs(2yrs); refs/docs,0.5625007117738355,2.3595946813871884
+total docs(3yrs); total cites(3yrs); citable docs(3yrs); cites/docs(2yrs); refs/docs,0.5642384637808038,2.3217142838931957
+total refs; total cites(3yrs); citable docs(3yrs); cites/docs(2yrs); refs/docs,0.5645016105477138,2.3215973608072904
+SJR; h-index; total docs(2017); total docs(3yrs); total refs; total cites(3yrs),0.6474517536726256,2.44939621659709
+SJR; h-index; total docs(2017); total docs(3yrs); total refs; citable docs(3yrs),0.6466873493651587,2.4161307301718535
+SJR; h-index; total docs(2017); total docs(3yrs); total refs; cites/docs(2yrs),0.546104883277429,2.192251030535379
+SJR; h-index; total docs(2017); total docs(3yrs); total refs; refs/docs,0.6939589324669906,2.0825371597635463
+SJR; h-index; total docs(2017); total docs(3yrs); total cites(3yrs); citable docs(3yrs),0.6888831785731162,2.663155019736642
+SJR; h-index; total docs(2017); total docs(3yrs); total cites(3yrs); cites/docs(2yrs),0.5420202121847614,2.2367670727012596
+SJR; h-index; total docs(2017); total docs(3yrs); total cites(3yrs); refs/docs,0.7327423065095977,2.4999699473139745
+SJR; h-index; total docs(2017); total docs(3yrs); citable docs(3yrs); cites/docs(2yrs),0.5429828222812317,2.2507488820432484
+SJR; h-index; total docs(2017); total docs(3yrs); citable docs(3yrs); refs/docs,0.6983196719543228,2.244962961971975
+SJR; h-index; total docs(2017); total docs(3yrs); cites/docs(2yrs); refs/docs,0.5606024977001743,2.320994657034741
+SJR; h-index; total docs(2017); total refs; total cites(3yrs); citable docs(3yrs),0.6723578809856059,2.5699557895870955
+SJR; h-index; total docs(2017); total refs; total cites(3yrs); cites/docs(2yrs),0.5441730094479192,2.230678522426249
+SJR; h-index; total docs(2017); total refs; total cites(3yrs); refs/docs,0.7006542282382254,1.99511698734051
+SJR; h-index; total docs(2017); total refs; citable docs(3yrs); cites/docs(2yrs),0.5460099418369143,2.1968238505226005
+SJR; h-index; total docs(2017); total refs; citable docs(3yrs); refs/docs,0.6941393053983148,2.1245316331020856
+SJR; h-index; total docs(2017); total refs; cites/docs(2yrs); refs/docs,0.560639142735116,2.3107718965971604
+SJR; h-index; total docs(2017); total cites(3yrs); citable docs(3yrs); cites/docs(2yrs),0.5419488491746419,2.248491044141123
+SJR; h-index; total docs(2017); total cites(3yrs); citable docs(3yrs); refs/docs,0.7572076498886386,2.64235835213386
+SJR; h-index; total docs(2017); total cites(3yrs); cites/docs(2yrs); refs/docs,0.5650426359591361,2.3324094598842704
+SJR; h-index; total docs(2017); citable docs(3yrs); cites/docs(2yrs); refs/docs,0.561261378475349,2.3254536013423537
+SJR; h-index; total docs(3yrs); total refs; total cites(3yrs); citable docs(3yrs),0.7040759775902868,2.7666133494547545
+SJR; h-index; total docs(3yrs); total refs; total cites(3yrs); cites/docs(2yrs),0.5423094458851148,2.2128751285489034
+SJR; h-index; total docs(3yrs); total refs; total cites(3yrs); refs/docs,0.7439829660210316,2.4852351128550354
+SJR; h-index; total docs(3yrs); total refs; citable docs(3yrs); cites/docs(2yrs),0.5415160436186625,2.2290344652390623
+SJR; h-index; total docs(3yrs); total refs; citable docs(3yrs); refs/docs,0.6756651140504364,2.2386908179793403
+SJR; h-index; total docs(3yrs); total refs; cites/docs(2yrs); refs/docs,0.5590527790319004,2.305258554757095
+SJR; h-index; total docs(3yrs); total cites(3yrs); citable docs(3yrs); cites/docs(2yrs),0.540128470032937,2.2601056218672855
+SJR; h-index; total docs(3yrs); total cites(3yrs); citable docs(3yrs); refs/docs,0.7699773145885959,2.6794885204400503
+SJR; h-index; total docs(3yrs); total cites(3yrs); cites/docs(2yrs); refs/docs,0.5637486005639425,2.277091413679689
+SJR; h-index; total docs(3yrs); citable docs(3yrs); cites/docs(2yrs); refs/docs,0.557054572335947,2.3206622860709345
+SJR; h-index; total refs; total cites(3yrs); citable docs(3yrs); cites/docs(2yrs),0.5425704476356119,2.2240651680766157
+SJR; h-index; total refs; total cites(3yrs); citable docs(3yrs); refs/docs,0.7743749498868295,2.65006698642532
+SJR; h-index; total refs; total cites(3yrs); cites/docs(2yrs); refs/docs,0.5696269073798157,2.377229977751629
+SJR; h-index; total refs; citable docs(3yrs); cites/docs(2yrs); refs/docs,0.5600414476963004,2.3126535286695833
+SJR; h-index; total cites(3yrs); citable docs(3yrs); cites/docs(2yrs); refs/docs,0.5636096832509725,2.279789199334652
+SJR; total docs(2017); total docs(3yrs); total refs; total cites(3yrs); citable docs(3yrs),0.7126423602901163,2.494621718038578
+SJR; total docs(2017); total docs(3yrs); total refs; total cites(3yrs); cites/docs(2yrs),0.546033636934431,2.2612160989138745
+SJR; total docs(2017); total docs(3yrs); total refs; total cites(3yrs); refs/docs,0.7299364577863604,2.2690784218854367
+SJR; total docs(2017); total docs(3yrs); total refs; citable docs(3yrs); cites/docs(2yrs),0.5491038362270152,2.286954010455609
+SJR; total docs(2017); total docs(3yrs); total refs; citable docs(3yrs); refs/docs,0.7607509553385189,2.1241913187591943
+SJR; total docs(2017); total docs(3yrs); total refs; cites/docs(2yrs); refs/docs,0.5665495089592185,2.3725822204548614
+SJR; total docs(2017); total docs(3yrs); total cites(3yrs); citable docs(3yrs); cites/docs(2yrs),0.5501640666478336,2.3101080620273904
+SJR; total docs(2017); total docs(3yrs); total cites(3yrs); citable docs(3yrs); refs/docs,0.7813768404051498,2.7135122103347165
+SJR; total docs(2017); total docs(3yrs); total cites(3yrs); cites/docs(2yrs); refs/docs,0.5688199924320007,2.3136558735771113
+SJR; total docs(2017); total docs(3yrs); citable docs(3yrs); cites/docs(2yrs); refs/docs,0.5680870649205986,2.3842309581902055
+SJR; total docs(2017); total refs; total cites(3yrs); citable docs(3yrs); cites/docs(2yrs),0.5463199485638376,2.274317334242426
+SJR; total docs(2017); total refs; total cites(3yrs); citable docs(3yrs); refs/docs,0.7498333078331794,2.3985028944919256
+SJR; total docs(2017); total refs; total cites(3yrs); cites/docs(2yrs); refs/docs,0.5692120833439145,2.3503613046158915
+SJR; total docs(2017); total refs; citable docs(3yrs); cites/docs(2yrs); refs/docs,0.5677051071609184,2.376306698837834
+SJR; total docs(2017); total cites(3yrs); citable docs(3yrs); cites/docs(2yrs); refs/docs,0.5687962646578583,2.316762395471929
+SJR; total docs(3yrs); total refs; total cites(3yrs); citable docs(3yrs); cites/docs(2yrs),0.5519805429113521,2.317451966143335
+SJR; total docs(3yrs); total refs; total cites(3yrs); citable docs(3yrs); refs/docs,0.7794733757382827,2.6775593965380864
+SJR; total docs(3yrs); total refs; total cites(3yrs); cites/docs(2yrs); refs/docs,0.5679772111949621,2.3240835517383136
+SJR; total docs(3yrs); total refs; citable docs(3yrs); cites/docs(2yrs); refs/docs,0.5709784757839981,2.4009067502917425
+SJR; total docs(3yrs); total cites(3yrs); citable docs(3yrs); cites/docs(2yrs); refs/docs,0.563816265259269,2.319068859296092
+SJR; total refs; total cites(3yrs); citable docs(3yrs); cites/docs(2yrs); refs/docs,0.5679113976440971,2.3276137330653586
+h-index; total docs(2017); total docs(3yrs); total refs; total cites(3yrs); citable docs(3yrs),0.9126763868304069,3.648493715760949
+h-index; total docs(2017); total docs(3yrs); total refs; total cites(3yrs); cites/docs(2yrs),0.5647826730711557,2.2455279311459173
+h-index; total docs(2017); total docs(3yrs); total refs; total cites(3yrs); refs/docs,1.0804829120572754,3.308813078021798
+h-index; total docs(2017); total docs(3yrs); total refs; citable docs(3yrs); cites/docs(2yrs),0.5692984389507866,2.2353400616413697
+h-index; total docs(2017); total docs(3yrs); total refs; citable docs(3yrs); refs/docs,1.0844524870537873,2.782829187983377
+h-index; total docs(2017); total docs(3yrs); total refs; cites/docs(2yrs); refs/docs,0.5593125915065961,2.304730660755069
+h-index; total docs(2017); total docs(3yrs); total cites(3yrs); citable docs(3yrs); cites/docs(2yrs),0.5611219829620689,2.2922989801617195
+h-index; total docs(2017); total docs(3yrs); total cites(3yrs); citable docs(3yrs); refs/docs,1.1259547595335455,3.9591844599402637
+h-index; total docs(2017); total docs(3yrs); total cites(3yrs); cites/docs(2yrs); refs/docs,0.5630957018470948,2.307447167085864
+h-index; total docs(2017); total docs(3yrs); citable docs(3yrs); cites/docs(2yrs); refs/docs,0.5589662113274831,2.331445529434336
+h-index; total docs(2017); total refs; total cites(3yrs); citable docs(3yrs); cites/docs(2yrs),0.5643946571319952,2.248044356582015
+h-index; total docs(2017); total refs; total cites(3yrs); citable docs(3yrs); refs/docs,1.1026766171874987,3.5521478033338756
+h-index; total docs(2017); total refs; total cites(3yrs); cites/docs(2yrs); refs/docs,0.5607953357637646,2.33608912345852
+h-index; total docs(2017); total refs; citable docs(3yrs); cites/docs(2yrs); refs/docs,0.5593428843465982,2.3052338737414124
+h-index; total docs(2017); total cites(3yrs); citable docs(3yrs); cites/docs(2yrs); refs/docs,0.5632017305627456,2.306657692511313
+h-index; total docs(3yrs); total refs; total cites(3yrs); citable docs(3yrs); cites/docs(2yrs),0.5623570508897752,2.2693143741237853
+h-index; total docs(3yrs); total refs; total cites(3yrs); citable docs(3yrs); refs/docs,1.142995839741872,3.989453140006518
+h-index; total docs(3yrs); total refs; total cites(3yrs); cites/docs(2yrs); refs/docs,0.5630607791101414,2.2977864597139175
+h-index; total docs(3yrs); total refs; citable docs(3yrs); cites/docs(2yrs); refs/docs,0.558794826990004,2.31751294278075
+h-index; total docs(3yrs); total cites(3yrs); citable docs(3yrs); cites/docs(2yrs); refs/docs,0.5627790420463507,2.308410345032208
+h-index; total refs; total cites(3yrs); citable docs(3yrs); cites/docs(2yrs); refs/docs,0.5631749190939802,2.29648640618971
+total docs(2017); total docs(3yrs); total refs; total cites(3yrs); citable docs(3yrs); cites/docs(2yrs),0.5646492532239582,2.3035466185916444
+total docs(2017); total docs(3yrs); total refs; total cites(3yrs); citable docs(3yrs); refs/docs,1.1773944177546392,3.660075930717505
+total docs(2017); total docs(3yrs); total refs; total cites(3yrs); cites/docs(2yrs); refs/docs,0.5647366809540142,2.3198374748551815
+total docs(2017); total docs(3yrs); total refs; citable docs(3yrs); cites/docs(2yrs); refs/docs,0.5609699073420791,2.353728808114913
+total docs(2017); total docs(3yrs); total cites(3yrs); citable docs(3yrs); cites/docs(2yrs); refs/docs,0.5645130563813255,2.32306315250242
+total docs(2017); total refs; total cites(3yrs); citable docs(3yrs); cites/docs(2yrs); refs/docs,0.5649698652292547,2.3179566878610784
+total docs(3yrs); total refs; total cites(3yrs); citable docs(3yrs); cites/docs(2yrs); refs/docs,0.5642137588938986,2.323677803710857
+SJR; h-index; total docs(2017); total docs(3yrs); total refs; total cites(3yrs); citable docs(3yrs),0.6926015869380229,2.68583421120195
+SJR; h-index; total docs(2017); total docs(3yrs); total refs; total cites(3yrs); cites/docs(2yrs),0.5460248436795468,2.1930687554681514
+SJR; h-index; total docs(2017); total docs(3yrs); total refs; total cites(3yrs); refs/docs,0.7201908426671271,2.340682377040364
+SJR; h-index; total docs(2017); total docs(3yrs); total refs; citable docs(3yrs); cites/docs(2yrs),0.5464578887997369,2.2110643900566185
+SJR; h-index; total docs(2017); total docs(3yrs); total refs; citable docs(3yrs); refs/docs,0.7076979960912174,2.208525581566859
+SJR; h-index; total docs(2017); total docs(3yrs); total refs; cites/docs(2yrs); refs/docs,0.55842208983001,2.2807868228663413
+SJR; h-index; total docs(2017); total docs(3yrs); total cites(3yrs); citable docs(3yrs); cites/docs(2yrs),0.5421419599407787,2.2670763323804333
+SJR; h-index; total docs(2017); total docs(3yrs); total cites(3yrs); citable docs(3yrs); refs/docs,0.7727122293035563,2.7387911031305103
+SJR; h-index; total docs(2017); total docs(3yrs); total cites(3yrs); cites/docs(2yrs); refs/docs,0.5659297071529349,2.28186098182644
+SJR; h-index; total docs(2017); total docs(3yrs); citable docs(3yrs); cites/docs(2yrs); refs/docs,0.5601544679904966,2.3271263823961337
+SJR; h-index; total docs(2017); total refs; total cites(3yrs); citable docs(3yrs); cites/docs(2yrs),0.5454728788611266,2.202665680565671
+SJR; h-index; total docs(2017); total refs; total cites(3yrs); citable docs(3yrs); refs/docs,0.743195504906016,2.4771770255066734
+SJR; h-index; total docs(2017); total refs; total cites(3yrs); cites/docs(2yrs); refs/docs,0.5625690076158418,2.312513908046316
+SJR; h-index; total docs(2017); total refs; citable docs(3yrs); cites/docs(2yrs); refs/docs,0.5588726887709469,2.2861440495406673
+SJR; h-index; total docs(2017); total cites(3yrs); citable docs(3yrs); cites/docs(2yrs); refs/docs,0.5660022636910463,2.286201311603305
+SJR; h-index; total docs(3yrs); total refs; total cites(3yrs); citable docs(3yrs); cites/docs(2yrs),0.5399862472997417,2.245373696647442
+SJR; h-index; total docs(3yrs); total refs; total cites(3yrs); citable docs(3yrs); refs/docs,0.7775437687432295,2.7453092937508483
+SJR; h-index; total docs(3yrs); total refs; total cites(3yrs); cites/docs(2yrs); refs/docs,0.5633363521158478,2.2739644891085242
+SJR; h-index; total docs(3yrs); total refs; citable docs(3yrs); cites/docs(2yrs); refs/docs,0.5564742250165368,2.3168488050424485
+SJR; h-index; total docs(3yrs); total cites(3yrs); citable docs(3yrs); cites/docs(2yrs); refs/docs,0.5608781049524735,2.289209462643616
+SJR; h-index; total refs; total cites(3yrs); citable docs(3yrs); cites/docs(2yrs); refs/docs,0.5634987812952064,2.2788929322972256
+SJR; total docs(2017); total docs(3yrs); total refs; total cites(3yrs); citable docs(3yrs); cites/docs(2yrs),0.5496116593410991,2.2972616953008105
+SJR; total docs(2017); total docs(3yrs); total refs; total cites(3yrs); citable docs(3yrs); refs/docs,0.7670737787360548,2.5637465651517233
+SJR; total docs(2017); total docs(3yrs); total refs; total cites(3yrs); cites/docs(2yrs); refs/docs,0.568848083648952,2.3141574404697334
+SJR; total docs(2017); total docs(3yrs); total refs; citable docs(3yrs); cites/docs(2yrs); refs/docs,0.5682482742780675,2.385371989856506
+SJR; total docs(2017); total docs(3yrs); total cites(3yrs); citable docs(3yrs); cites/docs(2yrs); refs/docs,0.5668289981296589,2.3263853068797844
+SJR; total docs(2017); total refs; total cites(3yrs); citable docs(3yrs); cites/docs(2yrs); refs/docs,0.5688055800627448,2.3169398325213804
+SJR; total docs(3yrs); total refs; total cites(3yrs); citable docs(3yrs); cites/docs(2yrs); refs/docs,0.5661594922404816,2.339500585660409
+h-index; total docs(2017); total docs(3yrs); total refs; total cites(3yrs); citable docs(3yrs); cites/docs(2yrs),0.5641112214758194,2.256390042552392
+h-index; total docs(2017); total docs(3yrs); total refs; total cites(3yrs); citable docs(3yrs); refs/docs,1.1165169228830103,3.7243213554625334
+h-index; total docs(2017); total docs(3yrs); total refs; total cites(3yrs); cites/docs(2yrs); refs/docs,0.5640904922716916,2.290692914529744
+h-index; total docs(2017); total docs(3yrs); total refs; citable docs(3yrs); cites/docs(2yrs); refs/docs,0.5593325077135323,2.3074443066546158
+h-index; total docs(2017); total docs(3yrs); total cites(3yrs); citable docs(3yrs); cites/docs(2yrs); refs/docs,0.5628935226107469,2.3089729464302033
+h-index; total docs(2017); total refs; total cites(3yrs); citable docs(3yrs); cites/docs(2yrs); refs/docs,0.564182180046843,2.289250760980902
+h-index; total docs(3yrs); total refs; total cites(3yrs); citable docs(3yrs); cites/docs(2yrs); refs/docs,0.5629076040224152,2.2990079267765133
+total docs(2017); total docs(3yrs); total refs; total cites(3yrs); citable docs(3yrs); cites/docs(2yrs); refs/docs,0.5647090695148437,2.3200326574114407
+SJR; h-index; total docs(2017); total docs(3yrs); total refs; total cites(3yrs); citable docs(3yrs); cites/docs(2yrs),0.5448654969264213,2.2251396907848924
+SJR; h-index; total docs(2017); total docs(3yrs); total refs; total cites(3yrs); citable docs(3yrs); refs/docs,0.7630433369664783,2.607498352084023
+SJR; h-index; total docs(2017); total docs(3yrs); total refs; total cites(3yrs); cites/docs(2yrs); refs/docs,0.5646616048006158,2.257311108275399
+SJR; h-index; total docs(2017); total docs(3yrs); total refs; citable docs(3yrs); cites/docs(2yrs); refs/docs,0.5573438987234669,2.293866665802776
+SJR; h-index; total docs(2017); total docs(3yrs); total cites(3yrs); citable docs(3yrs); cites/docs(2yrs); refs/docs,0.5632690681896736,2.2956073303269515
+SJR; h-index; total docs(2017); total refs; total cites(3yrs); citable docs(3yrs); cites/docs(2yrs); refs/docs,0.5645793250987816,2.2610509875154983
+SJR; h-index; total docs(3yrs); total refs; total cites(3yrs); citable docs(3yrs); cites/docs(2yrs); refs/docs,0.5608879047341899,2.2892909383657867
+SJR; total docs(2017); total docs(3yrs); total refs; total cites(3yrs); citable docs(3yrs); cites/docs(2yrs); refs/docs,0.5669726067423599,2.329619954309548
+h-index; total docs(2017); total docs(3yrs); total refs; total cites(3yrs); citable docs(3yrs); cites/docs(2yrs); refs/docs,0.5639395562482467,2.29189697820313
+SJR; h-index; total docs(2017); total docs(3yrs); total refs; total cites(3yrs); citable docs(3yrs); cites/docs(2yrs); refs/docs,0.561823311817536,2.2726877214836154
